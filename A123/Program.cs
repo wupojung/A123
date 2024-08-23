@@ -6,7 +6,7 @@ namespace A123
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("999");
+            Console.WriteLine("今天是星期五,為甚麼我要上課");
         }
     }
 }
